@@ -139,4 +139,5 @@ cython_debug/
 
 IDEAS.md
 .vscode/
+.idea/
 data.db
